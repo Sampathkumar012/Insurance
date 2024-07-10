@@ -8,7 +8,7 @@ public class LicInsuranceForm {
     public String fatherName;
     public int age;
     public String address;
-    public long phoneNumber;
+    public Long phoneNumber;
     public String relationStatus;
     public String signature;
 

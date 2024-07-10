@@ -19,7 +19,7 @@ public class LicInsuranceTest {
      customer.fatherName="kodandharamulu";
      customer.age=24;
      customer.relationStatus="single";
-     customer.phoneNumber=7569962663l;
+     customer.phoneNumber=7569962663L;
      customer.address="khammam";
      customer.signature="sampathkumar";
      //System.out.println("lic life insurance"+customer);
